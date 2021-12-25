@@ -1,7 +1,7 @@
 # Freshbooks Provider for OAuth 2.0 Client
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Coverage Status](https://coveralls.io/repos/github/zerospam/oauth2-freshbook/badge.svg?branch=)](https://coveralls.io/github/zerospam/oauth2-freshbook?branch=)
+[![Coverage Status](https://coveralls.io/repos/github/stojankukrika/oauth2-freshbook/badge.svg?branch=)](https://coveralls.io/github/stojankukrika/oauth2-freshbook?branch=)
 [![Build Status](https://travis-ci.com/stojankukrika/oauth2-freshbooks.svg?branch=master)](https://travis-ci.com/stojankukrika/oauth2-freshbooks)
 [![Total Downloads](https://img.shields.io/packagist/dt/stojankukrika/oauth2-freshbooks.svg?style=flat-square)](https://packagist.org/packages/stojankukrika/oauth2-freshbooks)
 
