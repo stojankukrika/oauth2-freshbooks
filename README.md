@@ -78,7 +78,7 @@ $provider = new Stojankukrika\OAuth2\Client\Provider\FreshBooks([
     'redirectUri'       => 'https://example.com/callback-url'
 ]);
 
-$grant = new \League\OAuth2\Client\Grant\RefreshToken();
+$grant = new \Stojankukrika\OAuth2\Client\Grant\RefreshToken();
 $token = $provider->getAccessToken($grant, ['refresh_token' => $token->refreshToken]);
 ```
 

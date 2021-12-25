@@ -155,7 +155,7 @@ JSON;
     }
 
     /**
-     * @expectedException \League\OAuth2\Client\Provider\Exception\IdentityProviderException
+     * @expectedException \Stojankukrika\OAuth2\Client\Provider\Exception\IdentityProviderException
      * @expectedExceptionMessage The requested resource was not found.
      */
     public function testHeaderMissing()
@@ -185,7 +185,7 @@ JSON;
     }
 
     /**
-     * @expectedException \League\OAuth2\Client\Provider\Exception\IdentityProviderException
+     * @expectedException \Stojankukrika\OAuth2\Client\Provider\Exception\IdentityProviderException
      * @expectedExceptionMessage The provided authorization grant is invalid, expired, revoked, does not match the redirection URI used in the authorization request, or was issued to another client.
      */
     public function testInvalidGrant()
